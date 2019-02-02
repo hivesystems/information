@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A well-maintained client for Minecraft, with unique features.
+  A well-maintained client for Minecraft, with unique features. 
 </p>
 <p align="center">
   <sub>Systems with a bright future. Built with ❤︎ by
@@ -35,6 +35,8 @@
 ![Discord](https://img.shields.io/discord/540991756947423263.svg?style=flat-square)
 
 Connect to different servers at multiple versions with one single client, or use our hacked client to give you an advantage over other users.
+
+Repositories for ViaHive, Hive Client, and our branding package are currently private. If you would have any questions, please reach out to us via [Twitter](https://twitter.com/HiveClient) or [Discord](https://discord.gg/)
 
 ## Features
 
