@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A well-maintained client for Minecraft, with unique features. 
+  A well-maintained client for Minecraft, with unique features.
 </p>
 <p align="center">
   <sub>Systems with a bright future. Built with ❤︎ by
@@ -31,12 +31,11 @@
 
 ![Stability](https://img.shields.io/badge/stability-experimental-red.svg?style=flat-square)
 ![Build](https://img.shields.io/badge/build-passing-orange.svg?style=flat-square)
+[![Codacy Badge](https://img.shields.io/badge/code%20quality-D-yellow.svg?style=flat-square)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=xenforq/HiveClient&amp;utm_campaign=Badge_Grade)
 ![Repo Size](https://img.shields.io/badge/repo%20size-15%20MB%2B-blue.svg?style=flat-square)
 ![Discord](https://img.shields.io/discord/540991756947423263.svg?style=flat-square)
 
 Connect to different servers at multiple versions with one single client, or use our hacked client to give you an advantage over other users.
-
-Repositories for ViaHive, Hive Client, and our branding package are currently private. If you would have any questions, please reach out to us via [Twitter](https://twitter.com/HiveClient) or [Discord](https://discord.gg/)
 
 ## Features
 
@@ -70,6 +69,9 @@ Hive Client is a feature rich hacked client for Minecraft that allows our users 
 [Branding Package](https://github.com/xenforq/HiveClient/tree/master/Branding%20Package):
 
 Our Branding Package contains, well, our branding. Branding Guidelines, Logos, Icons, and Logomarks. Project files cannot be found in there; those have to be requested personally via [xenforq](https://twitter.com/XenForq).
+
+[Hive Systems Website](https://github.com/xenforq/HiveClient/tree/master/Hive%20Systems%20Website)
+It's basic, it contains our website code.
 
 ## Contributors
 
